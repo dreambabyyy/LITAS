@@ -35,7 +35,7 @@ nano datas.txt
 ```bash
 nano proxies.txt
 ```
-1. Edit `data.txt` file in the root directory
+1. Edit `datas.txt` file in the root directory
 2. Add accessToken (one per line) for each account
 
 ```
