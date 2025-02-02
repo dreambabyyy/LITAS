@@ -39,8 +39,7 @@ nano proxies.txt
 2. Add accessToken (one per line) for each account
 
 ```
-user_id
-query_id
+eyj................
 ```
 ![image](https://github.com/user-attachments/assets/1e640fd2-ff4d-4140-bbfd-5d729c82d053)
 
