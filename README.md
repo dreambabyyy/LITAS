@@ -25,36 +25,29 @@ cd LITAS
 2. Install dependencies:
 
 ```bash
-npm install --force user-agents axios colors p-limit https-proxy-agent socks-proxy-agent crypto-js ws uuid xlsx readline-sync moment lodash qs
+npm install 
 ```
 
-### Setting Up Accounts
+### Setting Up Accounts & Proxy
 ```bash
-nano datas.txt
-```
-```bash
-nano proxies.txt
-```
-1. Edit `datas.txt` file in the root directory
-2. Add accessToken (one per line) for each account
-
-```
+token &  refreshToken when you run this bot
 eyj................
+   - ip:port
+   - ip:port:username:password
+   - username:password@ip:port
+   - http://ip:port / socks5://ip:port
 ```
-![image](https://github.com/user-attachments/assets/1e640fd2-ff4d-4140-bbfd-5d729c82d053)
 
 
-## Usage
+### Usage
 
 Run the bot:
 
 ```bash
-node bot.js
+node main.js
 
 ```
 
 ## My Channel Telegram
 https://t.me/superbianz
 
-## THX TO 
-https://github.com/MeoMunDep/
