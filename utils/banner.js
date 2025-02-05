@@ -13,7 +13,7 @@ const printHeader = () => {
 ║  ██║     ██║██║ ╚████║███████╗   ██║   ███████╗ 
 ║  ╚═╝     ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚══════╝ 
 ║                                                 
-║  🚀 ${chalk.bold.yellow("SUPER BIANZZZ")}       
+║  🚀 SUPER BIANZZZ      
 ║  🔥 AUTO SCRIPT MASTER                          
 ║                                               
 ║  📢 JOIN TELEGRAM CHANNEL NOW!                  
