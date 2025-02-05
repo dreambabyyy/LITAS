@@ -21,7 +21,7 @@ const printHeader = () => {
 ║     @SuperBianzZz - OFFICIAL CHANNEL   
 ║                                                 
 ║  ⚡ FAST - RELIABLE - SECURE   
-║  🛠  SCRIPTS EXPERT                              
+║                           
 ║                                                 
 ╚═════════════════════════════════════════════════╝
 `));
